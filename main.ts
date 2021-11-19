@@ -11,4 +11,4 @@ basic.showIcon(IconNames.Heart)
 basic.forever(function on_forever() {
     
 })
-console.log("Hola!, soy Yankee")
+console.log("¡Hola!, soy Yankee")

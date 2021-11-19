@@ -13,4 +13,4 @@ def on_forever():
     pass
 basic.forever(on_forever)
 
-console.log('Hola!, soy Yankee')
+console.log('¡Hola!, soy Yankee')
