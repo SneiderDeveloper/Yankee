@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-bitcar": "github:TinkerGen/pxt-BitCar#0.1.0"
     },
     "files": [
         "main.blocks",
