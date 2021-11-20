@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"/>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" x="10" y="10"><statement name="HANDLER"><block type="basic_show_icon"><field name="i">IconNames.Yes</field><next><block type="device_show_leds"><field name="LEDS">`
+        .####
+###.#
+##.##
+#..##
+.###.
+        `</field><next><block type="device_print_message"><value name="text"><shadow type="text"><field name="TEXT">HOLA FUNDACION EL NOGAL</field></shadow></value><next><block type="basic_show_icon"><field name="i">IconNames.Heart</field></block></next></block></next></block></next></block></statement></block><block type="device_gesture_event" x="-3" y="508"><field name="NAME">Gesture.LogoDown</field><statement name="HANDLER"><block type="device_print_message"><value name="text"><shadow type="text"><field name="TEXT">Oh, no. Levántame por favor</field></shadow></value></block></statement></block></xml>
