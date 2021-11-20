@@ -1,10 +1,11 @@
 {
-    "name": "SALUDA",
+    "name": "Manejo Yankee",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "mbit": "github:lzty634158/yahboom_mbit_en#ec0be625edd52ff7e5e0f4bbc92d43cb3c3205d3"
     },
     "files": [
         "main.blocks",
@@ -26,5 +27,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
